@@ -4,7 +4,7 @@ Install the required dependencies by using following command on cmd/terminal
 
 pip install -r requirements.txt
 
-This will istall the version of libraries on which i build this project. If u want u can istall the latest versions too by upgrading the installed dependencies.
+This will install the version of libraries on which i build this project. If u want u can install the latest versions too by upgrading the installed dependencies.
 
 ## Model
 I have already included my trained model with the project.
