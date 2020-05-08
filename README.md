@@ -34,4 +34,4 @@ for eg    python test.py C:/location_of_image
 ## 4) Run
 Run the project by running play.py and enjoy.
 
-#### Future updates may include scoring capablities right now this project does not have scoring capablities.
+#### Future updates may include scoring capabilities right now this project does not have scoring capabilities.
